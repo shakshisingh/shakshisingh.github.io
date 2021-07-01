@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e2164c7d.chunk.css",
-    "main.js": "/static/js/main.a6d511c5.chunk.js",
-    "main.js.map": "/static/js/main.a6d511c5.chunk.js.map",
+    "main.js": "/static/js/main.a27d0fcc.chunk.js",
+    "main.js.map": "/static/js/main.a27d0fcc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e1ee86f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e1ee86f6.js.map",
     "static/js/2.f6e033fb.chunk.js": "/static/js/2.f6e033fb.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/casteClusterTajCity.bfb84801.pdf": "/static/media/casteClusterTajCity.bfb84801.pdf",
     "static/media/friends.3c0995bd.png": "/static/media/friends.3c0995bd.png",
     "static/media/inquilab.2097725f.pdf": "/static/media/inquilab.2097725f.pdf",
+    "static/media/mutatingMonster.92b5ab3e.pdf": "/static/media/mutatingMonster.92b5ab3e.pdf",
     "static/media/pillowshots.b5201ee0.png": "/static/media/pillowshots.b5201ee0.png",
     "static/media/shakshi.7bd64f72.png": "/static/media/shakshi.7bd64f72.png"
   },
@@ -22,6 +23,6 @@
     "static/js/runtime-main.e1ee86f6.js",
     "static/js/2.f6e033fb.chunk.js",
     "static/css/main.e2164c7d.chunk.css",
-    "static/js/main.a6d511c5.chunk.js"
+    "static/js/main.a27d0fcc.chunk.js"
   ]
 }
